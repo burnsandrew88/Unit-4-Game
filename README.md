@@ -6,4 +6,4 @@ Game Instructions: You will be given a random number at the beginning of the gam
 number with your total score. You win the game if you match the total score to the number provided and if you go over the choosen number, YOU LOSE! CHOOSE WISELY!
             
 
-The game can be played at this link: 
+The game can be played at this link: https://burnsandrew88.github.io/Unit-4-Game/

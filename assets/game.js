@@ -38,7 +38,7 @@ $(document).ready(function () {
 
     function loser(){
         alert ("You Lost!");
-        losses--;
+        losses++;
         $('#numberLosses').text(losses);
         reset ();
     }
